@@ -1,2 +1,2 @@
 # node_crud
-CRUD com NODEJS, usando express, typeORM e Postgresql
+CRUD com NODEJS, usando express, typeORM, Postgresql e TypeScript
